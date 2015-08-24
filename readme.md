@@ -2,6 +2,10 @@
 
 - gitbook 风格, 但不用 gitbook, 仅使用 github private repo
 
+其他类似 lodash 的函数库
+
+- [ramda](https://github.com/ramda/ramda)
+
 参考资料
 
 - [underscore](http://underscorejs.org/), [chinese](http://learningcn.com/underscore/)
