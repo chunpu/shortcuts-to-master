@@ -6,7 +6,7 @@ throttle 和 debounce 是两个防止频繁调用, 保护硬件性能的实用�
 
 他们好比是给函数加上了冷却时间. 在很多游戏比如 dota, wow, 我们都有着很多技能, 大部分技能都会有一个冷却时间, 如果游戏允许我们没有冷却的频繁发动技能, 那游戏肯定乱套了.
 
-throttle 和 debounce 在对用户输入, 或者事件响应上特别实用
+throttle 和 debounce 在对用户输入, 或者事件响应上格外有用
 
 
 ### 名词解释
@@ -126,3 +126,5 @@ var throttled = _.throttle(function() {
 	}
 }, 1000)
 ```
+
+lodash api 官网推荐了这样一篇博客 [Debounce and Throttle: a visual explanation](http://drupalmotion.com/article/debounce-and-throttle-visual-explanation) 来介绍这两个函数的用法和区别
