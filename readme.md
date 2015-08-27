@@ -1,10 +1,18 @@
-抄高手的近路, Lo-Dash/Underscore 指南
+抄高手的近路, Lo-Dash 指南
 
 - gitbook 风格, 但不用 gitbook, 仅使用 github private repo
 
 其他类似 lodash 的函数库
 
 - [ramda](https://github.com/ramda/ramda)
+- [lang.js](https://yui.github.io/yui2/docs/yui_2.3.0/docs/Lang.js.html)
+
+Lodash 需要看的资料
+
+- 首页 feature
+- git commit log
+- issures
+- unit tests
 
 参考资料
 
