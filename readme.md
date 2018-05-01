@@ -1,7 +1,5 @@
 抄高手的近路, Lo-Dash 指南
 
-- gitbook 风格, 但不用 gitbook, 仅使用 github private repo
-
 其他类似 lodash 的函数库
 
 - [ramda](https://github.com/ramda/ramda)
