@@ -1,4 +1,4 @@
-抄高手的近路, Lo-Dash 指南
+Lo-Dash 指南
 
 其他类似 lodash 的函数库
 
